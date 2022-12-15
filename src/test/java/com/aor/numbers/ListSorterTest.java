@@ -26,4 +26,5 @@ public class ListSorterTest {
 
         Assertions.assertEquals(expected, sorted);
     }
+
 }
